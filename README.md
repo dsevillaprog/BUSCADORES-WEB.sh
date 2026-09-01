@@ -1,9 +1,9 @@
-### <img src="../../../CURSO-CSS/blob/main/img/cmd.gif" alt="Script" width="auto" height="25"><img src="../../../CURSO-CSS/blob/main/img/gnu.gif" alt="Linux" width="auto" height="25"> &MediumSpace; BUSCADORES-WEB.sh
+### <img src="../../../CURSO-CSS/blob/main/img/cmd.gif" alt="Script" width="auto" height="25"> &MediumSpace; <img src="../../../CURSO-CSS/blob/main/img/gnu.gif" alt="Linux" width="auto" height="25"> &MediumSpace; BUSCADORES-WEB.sh
 ## 
 
 ##### ⓘ  Descripción
 
-  - Búsquedas web en múltiples plataformas ordenadas por categorias
+  - Búsquedas web en múltiples plataformas ordenadas por categorías
 
 
 ##### ⚙ Características:
