@@ -19,13 +19,18 @@
 ##  
 ##### 🛠 Instalación:
 
-1. Dar permisos de ejecución:
+1.  Instalar dependencias:
+   ```bash
+    sudo apt update && sudo apt install firefox gnome-terminal protonvpn-cli -y
+   ```
+
+2. Dar permisos de ejecución:
 
    ```bash
     chmod u+x BUSCADORES-WEB.sh
    ```
 
-2. Ejecutar el script:
+3. Ejecutar el script:
 
    ```bash
     ./BUSCADORES-WEB.sh
