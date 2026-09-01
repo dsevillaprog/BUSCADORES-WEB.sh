@@ -12,9 +12,9 @@
     ╰─ Conecta con una VPN para evitar bloqueos
 
 ###### ☰ Dependencias:
-    ```bash
+   ```bash
     firefox gnome-terminal protonvpn-cli 
-    ```    
+   ```
 
 ##  
 ##### 🛠 Instalación:
@@ -41,6 +41,6 @@
     * Necesita un perfil en firefox llamado 'p' y configurarlo al gusto
    ```
 ##  
-###### BUSCADORES-WEB
-![BUSCADORES-WEB.sh](/img/BUSCADORES-WEB.png?raw=true)
+###### BUSCADORES-WEB.sh
+![BUSCADORES-WEB.sh](../../../CURSO-CSS/blob/main/img/BUSCADORES-WEB.png?raw=true)
 ##  
