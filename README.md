@@ -29,11 +29,11 @@
  
 ##  
 ###### » Uso:
-`./BUSCADORES-WEB.sh`
-    
-- Modo privado:
-    `./BUSCADORES-WEB.sh p`
-  * Necesita un perfil en firefox llamado 'p' y configurarlo al gusto
+   ```bash
+   ./BUSCADORES-WEB.sh
+   ./BUSCADORES-WEB.sh p
+   ```
+  \* [p] Necesita un perfil en firefox llamado 'p' y configurarlo al gusto
 
 ##  
 ###### BUSCADORES-WEB.sh
