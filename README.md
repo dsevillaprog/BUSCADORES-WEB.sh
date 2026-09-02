@@ -8,8 +8,8 @@
 
 ##### ⚙ Características:
 
-    ╰─ Busca un mismo término en múltiples plataformas
-    ╰─ Conecta con una VPN para evitar bloqueos
+  - Busca un mismo término en múltiples plataformas
+  - Conecta con una VPN para evitar bloqueos
 
 ###### ☰ Dependencias:
    ```bash
@@ -18,33 +18,22 @@
 
 ##  
 ##### 🛠 Instalación:
-
-1.  Instalar dependencias:
+* Instalar dependencias
+*  Dar permisos de ejecución
+*   Ejecutar el script
    ```bash
     sudo apt update && sudo apt install firefox gnome-terminal protonvpn-cli -y
-   ```
-
-2. Dar permisos de ejecución:
-
-   ```bash
     chmod u+x BUSCADORES-WEB.sh
-   ```
-
-3. Ejecutar el script:
-
-   ```bash
-    ./BUSCADORES-WEB.sh
+   ./BUSCADORES-WEB.sh
    ```
  
 ##  
 ###### » Uso:
-   ```bash
     ./BUSCADORES-WEB.sh
     
     Modo privado:
     ./BUSCADORES-WEB.sh [p]
     * Necesita un perfil en firefox llamado 'p' y configurarlo al gusto
-   ```
 ##  
 ###### BUSCADORES-WEB.sh
 ![BUSCADORES-WEB.sh](../../../CURSO-CSS/blob/main/img/BUSCADORES-WEB.png?raw=true)
