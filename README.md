@@ -32,7 +32,7 @@
 `./BUSCADORES-WEB.sh`
     
 - Modo privado:
-    `./BUSCADORES-WEB.sh [p]`
+    `./BUSCADORES-WEB.sh p`
   * Necesita un perfil en firefox llamado 'p' y configurarlo al gusto
 
 ##  
